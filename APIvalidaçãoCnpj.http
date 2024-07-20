@@ -1,0 +1,6 @@
+@APIvalidaçãoCnpj_HostAddress = http://localhost:5049
+
+GET {{APIvalidaçãoCnpj_HostAddress}}/VAlidadorcnpj/
+Accept: application/json
+
+###
